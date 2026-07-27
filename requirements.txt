@@ -24,7 +24,7 @@ omegaconf
 einops
 xatlas
 trimesh
-git+https://github.com/NVlabs/nvdiffrast/
+#git+https://github.com/NVlabs/nvdiffrast/
 
 # lama
 easydict==1.9.0
